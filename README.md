@@ -21,22 +21,21 @@ This project implements a recommendation system for  Retail-Recommendations usin
 
 ## Setup Instructions
 1. Clone the repository:
-   ```
+
   git clone https://github.com/Kalyankumarmohanbabu/Retail-Recommendation.git
  cd Retail-Recommendation
 
-   ```
 
 2. Create and activate a virtual environment:
-   ```
+
    python -m venv env
    source env/bin/activate  # On Windows use `env\Scripts\activate`
-   ```
+
 
 3. Install the required packages:
-   ```
+   
    pip install -r requirements.txt
-   ```
+
 
 4. Ensure you have the following files in the project directory:
    - `knn_model.pkl`: Pickled KNN pipeline

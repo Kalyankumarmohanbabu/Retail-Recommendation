@@ -69,5 +69,4 @@ Contributions to improve the recommendation system or extend its features are we
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- Data source: [Specify the source of your Amazon product data]
-- Inspiration: [Any projects or papers that inspired this work]
+- Data source:(https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)

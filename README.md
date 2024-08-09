@@ -66,7 +66,7 @@ The project uses a K-Nearest Neighbors (KNN) algorithm for generating recommenda
 Contributions to improve the recommendation system or extend its features are welcome. Please feel free to submit pull requests or open issues for any bugs or enhancements.
 
 ## License
-[Specify your license here, e.g., MIT, GPL, etc.]
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Data source: [Specify the source of your Amazon product data]
